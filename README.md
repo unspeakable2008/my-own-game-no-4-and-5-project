@@ -1,1 +1,2 @@
-# my-own-game-no-4-and-5-project
+# p5.play-boilerplate
+Boiler plate for p5.play
